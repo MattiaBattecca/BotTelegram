@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "nome": "Mattia Giuliani",
+        "giorno": "07/05/2022",
+        "ora": "15:30",
+        "taglio": 1
+    },
+    {
+        "id": 1,
+        "nome": "Alessio Tiramani",
+        "giorno": "15/05/2022",
+        "ora": "17:30",
+        "taglio": 2
+    },
+    {
+        "id": 2,
+        "nome": "jajw",
+        "giorno": "3/4/2033",
+        "ora": "12:40",
+        "taglio": "Taglio classico"
+    },
+    {
+        "id": 2,
+        "nome": "haiai",
+        "giorno": "12/12/2032",
+        "ora": "12:40",
+        "taglio": "Shampoo"
+    },
+    {
+        "id": 3,
+        "nome": "jwjw",
+        "giorno": "4/4/2022",
+        "ora": "9:40",
+        "taglio": "Taglio classico"
+    },
+    {
+        "id": 3,
+        "nome": "5",
+        "giorno": "14/3/3033",
+        "ora": "12:00",
+        "taglio": "Shampoo"
+    },
+    {
+        "id": 4,
+        "nome": "hj",
+        "giorno": "4/5/2222",
+        "ora": "16:5",
+        "taglio": "Taglio classico + Shampoo"
+    },
+    {
+        "id": 5,
+        "nome": "hsjsi",
+        "giorno": "3/4/4444",
+        "ora": "12:4",
+        "taglio": "Scolpitura barba"
+    }
+]

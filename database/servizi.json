@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "nome": "Taglio classico",
+        "prezzo": "20",
+        "tempo": "40"
+    },
+    {
+        "id": 1,
+        "nome": "Taglio classico + Shampoo",
+        "prezzo": "25",
+        "tempo": "45"
+    },
+    {
+        "id": 2,
+        "nome": "Shampoo",
+        "prezzo": "10",
+        "tempo": "5"
+    },
+    {
+        "id": 3,
+        "nome": "Scolpitura barba",
+        "prezzo": "18",
+        "tempo": "30"
+    },
+    {
+        "id": 4,
+        "nome": "Rasatura barba",
+        "prezzo": "10",
+        "tempo": "15"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "nome": "Marco",
+        "cognome": "Rossi",
+        "eta": "33",
+        "specialita": "Taglio alla moda donna/uomo", 
+        "foto": "./database/immagini/barbieri/marco.jpg"
+    },
+    {
+        "id": 1,
+        "nome": "Paolo",
+        "cognome": "Rossi",
+        "eta": "27",
+        "specialita": "Taglio classico e scolpitura barba", 
+        "foto": "./database/immagini/barbieri/paolo.jpg"
+    }
+]
